@@ -1,6 +1,10 @@
 {
   "name": "memos-kemiaofx",
+<<<<<<< HEAD
   "version": "1.0.0",
+=======
+  "version": "1.1.0",
+>>>>>>> 0cd00e28d8a95e60670353306cbb328282f98b60
   "description": "",
   "repository": {
     "type": "git",
