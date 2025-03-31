@@ -144,7 +144,7 @@ blockquote {
 .memos__content:before {
     content: '';
     position: absolute;
-    background: url('https://cdn.dusays.com/avatar.png') no-repeat;
+    background: url('https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/202503171226033.png') no-repeat;
     background-size: contain;
     width: 40px;
     height: 40px;
